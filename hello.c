@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
-    printf("\n hello");}
+    printf("\n hello");
+}
